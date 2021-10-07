@@ -1,6 +1,5 @@
 // Put your styles in this file.
-html, body {}
-
+html, body {} 
 .inner-hero-section {
     position: relative;
     overflow: hidden;
@@ -14,4 +13,5 @@ html, body {}
     top: 0;
     bottom: 0;
     width: 100%; 
+    z-index: -1;
 }
